@@ -1,0 +1,10 @@
+@media screen and (max-width: 786px) {
+    .temp  {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+}
+.contentbackground{
+  background: linear-gradient(white,pink)
+}
