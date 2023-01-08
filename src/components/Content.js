@@ -5,7 +5,7 @@ export default function Content() {
     let url='';
   return (
     <div>
-      <section className="text-gray-600 body-font contentbackground" style={{height:'300px'}}>
+      <section className="text-gray-600 body-font contentbackground">
   <div className="container px-5 py-12 mx-auto">
     <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
       <h2 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Book from <h1 style={{display:'inline-block',color:'#b77a85',fontSize:'46px'}}>San Francisco</h1> to :</h2>
